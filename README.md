@@ -42,9 +42,13 @@ Self challenge
 
 </br> <strong> Additional hints: </strong> </br>
 • You’ll need to use these three lines of code from project 1: let fm = FileManager.default, then let path = Bundle.main.resourcePath!, and finally let items = try! fm.contentsOfDirectory(atPath: path).
+
 • Once you have an array of all the files in your app bundle, use the hasSuffix() method to filter out everything that isn’t a JPG image.
+
 • You’ll need to make ViewController build on UICollectionViewController rather than just UIViewController.
+
 • Just like in project 10, you should create a custom UICollectionViewCell subclass that contains an image view to show your storm images.
+
 • You’ll need to design your detail view controller using Interface Builder, then call instantiateViewController to load it when a collection view cell is tapped.
 
 # Stretch goals
