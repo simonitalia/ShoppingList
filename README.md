@@ -8,7 +8,7 @@ Hacking with Swift
 The aim of this app is to create a simple shopping list, by adding and removong items to a UITableView, enusring the entries are saved to the app's bundle for later retreival when the app is closedd, then reopened.
 
 # Demo
-![Demo](Demo_06122019.gif)
+![Demo](Demo_07122019.gif)
 
 
 # Education supplier
