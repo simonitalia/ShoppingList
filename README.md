@@ -4,6 +4,13 @@ Shopping List
 # Course
 Hacking with Swift
 
+# Objective
+The aim of this app is to create a simple shopping list, by adding and removong items to a UITableView, enusring the entries are saved to the app's bundle for later retreival when the app is closedd, then reopened.
+
+# Demo
+![Demo](Demo_06122019.gif)
+
+
 # Education supplier
 This iOS app is developed as a "self challenge" project in the iBook tutorial "Hacking with Swift" which forms part of the "Hacking with Swift" tutorial series, authored by Paul Hudson. Self challenges are apps developed from scratch, solo and un-assisted. The requirements are provided by the instructor in text base, list form. Some helpful hints are sometimes provided.
 
