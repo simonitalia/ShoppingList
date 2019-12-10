@@ -30,12 +30,6 @@ Self challenge
 
 - contentsOfDirectory(atPath: path)
 
-- UIImagePickerController
-
-- UUID
-
-- jpegData()
-
 - UIAlertController / UIAlertAction
 
 - UITableViewRowAction (swipte to Share and swipe to Delete)
